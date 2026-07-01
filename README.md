@@ -1,4 +1,4 @@
-# Arduino Leonardo USB Spoofer
+# Arduino Leonardo USB Spoofer (Interactive + Safe)
 
 A Python tool that disguises Arduino Leonardo (ATmega32U4) boards as a real mouse by cloning its USB identity — perfect for hardware macros, aim assists, and anything that needs to stay under the radar.
 
